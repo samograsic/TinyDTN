@@ -2,6 +2,8 @@
 
 TinyDTN is a minimalistic implementation of the Bundle Protocol v7 (BPv7) designed specifically for Arduino-based platforms. It enables LoRa communication using DTN bundles, making it suitable for small, resource-constrained devices. The library intentionally focuses only on sending DTN bundles to maintain a minimal footprint, ensuring compatibility with even the simplest Arduino devices.
 
+![IMG_4820](https://github.com/user-attachments/assets/0c554aca-0929-4b6c-a856-f0a87f79ffd0)
+
 ## Features
 
 - Bundle Protocol v7 (BPv7) compliance
